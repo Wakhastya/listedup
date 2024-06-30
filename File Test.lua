@@ -1,0 +1,2 @@
+LogToConsole("KONTOL")
+LogToConsole("CUMINFO")
