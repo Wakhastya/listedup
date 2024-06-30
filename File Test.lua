@@ -1,2 +1,0 @@
-LogToConsole("KONTOL")
-LogToConsole("CUMINFO")
