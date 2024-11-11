@@ -1,3 +1,3 @@
-allowedUserIds = {
+certainuserIDs = {
     "327723",
 }
